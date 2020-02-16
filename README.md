@@ -2,6 +2,7 @@
  Solutions to the Waterloo Canadian Computing Competition (CCC) from the CEMC. These are written in Python.
 I'm working on puttinng all my successful solutions 2010 to 2020 here.
 
+```md
 ***Common terms used ***
 For best understanding of the code, here are some terms to know.
 Bold words in the definitions are also defined here.
@@ -68,3 +69,4 @@ Search using Ctrl-F, because of the way this is sorted, the entry should be the 
             Make sure it isn't in the Visited List. If it is, skip to the next loop.
             Add V to the Visited List.
             See what V links to in your tree or graph, then add those to your queue.
+```
