@@ -2,6 +2,8 @@
 #13/15 points
 #Time limit exceeded on last subtask, granting 0/2 points
 #A regular BFS solution
+#For every point we go to, we find the coordinates we can go to from there by finding
+#the divisors of the current value
 from math import sqrt
 from math import floor
 def main():

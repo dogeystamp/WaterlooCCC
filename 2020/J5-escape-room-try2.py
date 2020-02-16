@@ -3,6 +3,7 @@
 #Time limit exceeded on last subtask, granting 0/2 points
 #A backwards Breadth-First-Search (BFS) solution.
 #Takes the coordinates of a point to find where other points that could lead to it are.
+#We multiply x and y in the coordinates, then see what points have the value.
 def main():
     m = int(input())
     n = int(input())
