@@ -49,7 +49,7 @@ Search using Ctrl-F, because of the way this is sorted, the entry should be the 
           2  3
          /\  /\
          4 5 6 7
-         ```
+        ```
 <br/>
     Queue:<br/>
         Just like you would think, it's like a waiting line. You serve the one first in line.<br/>
@@ -59,13 +59,13 @@ Search using Ctrl-F, because of the way this is sorted, the entry should be the 
         It's suitable for finding the shortest path from one point to another,<br/>
         because the moment you find the destination, you *know* that it's the shortest path to it.<br/>
         This is the order it goes through it:<br/>
-        ```markdown
+         ```markdown
             1
            /\
           2  3
          /\  /\
          4 5 6 7
-         ```
+        ```
         Instructions for executing it:<br/>
             We have a list of places we want to go to, a **queue**.<br/>
             We also have a list of already visited places. We will call this the Visited List.<br/>
