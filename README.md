@@ -9,11 +9,17 @@ Bold words in the definitions are also defined here.
 These are not in alphabetical order, instead, it's sorted by basic to complicated,
 so you can read in order to understand everything correctly.
 Search using Ctrl-F, because of the way this is sorted, the entry should be the first result
+
     Vertex/Vertices: See **Graph**
+
     Edge: See **Graph**
+
     Edge Weight: See **Graph**
+
     Adjacency list: See **Graph**
+
     Adjacency Matrix: See **Graph**
+
     Graph:
         A data structure consisting of points, connected to eachother with lines, making a network.
         The points are called verttices, and the lines are called edges.
@@ -32,8 +38,11 @@ Search using Ctrl-F, because of the way this is sorted, the entry should be the 
         You'll see I prefer doing adjacency lists.
 
     Root: See **Tree**
+
     Parent: See **Tree**
+
     Child: See **Tree**
+    
     Tree:
         It's a **graph**, but there's only ONE way to get from one place to another without going on
         the same vertex twice. It's thus much simpler and organised.
