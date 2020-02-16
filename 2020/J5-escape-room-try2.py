@@ -1,6 +1,7 @@
 #Written by DogeyStamp during the 2020 CCC.
 #13/15 points
 #Time limit exceeded on last subtask, granting 0/2 points
+#Slightly faster than try 1.
 #A backwards Breadth-First-Search (BFS) solution.
 #Takes the coordinates of a point to find where other points that could lead to it are.
 #We multiply x and y in the coordinates, then see what points have the value.
