@@ -2,7 +2,7 @@
  Solutions to the Waterloo Canadian Computing Competition (CCC) from the CEMC. These are written in Python.
 I'm working on puttinng all my successful solutions 2010 to 2020 here.
 
-```md
+```markdown
 ***Common terms used ***
 For best understanding of the code, here are some terms to know.
 Bold words in the definitions are also defined here.
