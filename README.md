@@ -43,7 +43,7 @@ Search using Ctrl-F, because of the way this is sorted, the entry should be the 
         A good way to think about it is to think of your file system, consisting of files and folders,<br/>
         or a family tree. You could even think of a regular tree, with 1 as the trunk ands the bottom=most layers <br/>as leaves.
         Example:<br/>
-        ```
+        ```markdown
             1
            /\
           2  3
@@ -59,7 +59,7 @@ Search using Ctrl-F, because of the way this is sorted, the entry should be the 
         It's suitable for finding the shortest path from one point to another,<br/>
         because the moment you find the destination, you *know* that it's the shortest path to it.<br/>
         This is the order it goes through it:<br/>
-        ```
+        ```markdown
             1
            /\
           2  3
