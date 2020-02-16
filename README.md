@@ -1,7 +1,7 @@
 ```markdown
-## WaterlooCCC
- Solutions to the Waterloo Canadian Computing Competition (CCC) from the CEMC. These are written in Python.
-I'm working on puttinng all my successful solutions 2010 to 2020 here.
+# WaterlooCCC
+Solutions to the Waterloo Canadian Computing Competition (CCC) from the CEMC. These are written in Python.
+I'm working on putting all my successful solutions 2010 to 2020 here.
 
 #Common terms used
 For best understanding of the code, here are some terms to know.
@@ -49,6 +49,10 @@ Search using Ctrl-F, because of the way this is sorted, the entry should be the 
           2  3
          /\  /\
          4 5 6 7
+
+    Queue:
+        Just like you would think, it's like a waiting line. You serve the one first in line.
+
     Breadth First Search (BFS):
         It's an algorithm to go through a **tree** or **graph**.
         It's suitable for finding the shortest path from one point to another,
