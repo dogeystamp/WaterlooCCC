@@ -1,3 +1,7 @@
+#Written by DogeyStamp during the 2020 CCC.
+#15/15 points
+#Make a function to shift strings.
+#Shift until you can find string 2 in string 1. Print yes. Otherwise, no.
 str1 = input()
 str2 = input()
 def shift(toShift):
